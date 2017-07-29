@@ -1,6 +1,6 @@
 # rnNotes
 
-This is a react-native Android/iOS application for creating a tasks/notes. All created tasks/notes will be showen as list on the main screen and if there is no notes/tasks then empty screen will be visible. All the tasks/notes will be stored in to local storage so if in case app is killed no data will be lost.
+This is a react-native Android/iOS application for creating a tasks/notes. All created tasks/notes will be shown as a list on the main screen and if there is no note/task then empty screen will be visible. All the tasks/notes will be stored in to local storage so if in case app is killed no data will be lost.
 
 In this following features are implemented:- 
 1. New Note/Task
