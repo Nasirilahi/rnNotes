@@ -1,0 +1,5 @@
+export const ADD_NOTES = 'ADD_NOTES'
+export const FETCH_SINGLE = 'FETCH_SINGLE'
+export const UPDATE_NOTE = 'UPDATE_NOTE'
+export const LOAD_STORED = 'LOAD_STORED'
+export const DELETE_NOTE = 'DELETE_NOTE'
